@@ -1,0 +1,3 @@
+325376816593           device usb:338903040X product:CM_CN_P817S13 model:ZTE_A0622 device:P817S13 transport_id:97
+325376816593           device usb:338894848X product:CM_CN_P817S13 model:ZTE_A0622 device:P817S13 transport_id:94
+d8089abc7cf5           device usb:338890752X product:riva model:Redmi_5A device:riva transport_id:95
